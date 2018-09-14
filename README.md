@@ -1,5 +1,5 @@
 # App of example about Redux NGRX
-You can see in this link [InputOutpuExample](https://dist-gnqucchzac.now.sh/)
+You can see in this link [ReduxParentsExample](https://dist-gnqucchzac.now.sh/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
